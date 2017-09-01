@@ -1,0 +1,8 @@
+config.js
+/node_modules
+.DS_Store
+Thumbs.db
+yarn.lock
+.env
+dblog.log
+task.log
